@@ -12,13 +12,13 @@ keyed_groups:
 
 filters:
   tag:Name:
-    - TCS-bastion
-    - TCS-nginx
-    - TCS-tooling
-    - TCS-wordpress
-    - TCS-sonarqube
-    - TCS-artifactory
-    - TCS-Jenkins
+    - cloudops-bastion
+    - cloudops-nginx
+    - cloudops-tooling
+    - cloudops-wordpress
+    - cloudops-sonarqube
+    - cloudops-artifactory
+    - cloudops-Jenkins
   instance-state-name : running
   
 hostnames:

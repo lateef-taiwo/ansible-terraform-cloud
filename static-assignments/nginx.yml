@@ -1,5 +1,5 @@
 ---
-- hosts: tag_Name_TCS_nginx
+- hosts: tag_Name_cloudops_nginx
   become: true
   roles:
     - nginx
