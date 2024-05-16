@@ -23,7 +23,3 @@
   user: ubuntu
 - name: sonarqube assignment
   import_playbook: ../static-assignments/sonar.yml
-
-
-
-
